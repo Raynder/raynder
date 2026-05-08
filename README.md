@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/rayndercardoso">
+  <a href="https://www.linkedin.com/in/raynder-cardoso">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -35,6 +35,7 @@ Tenho experiência no desenvolvimento de aplicações web, desktop e soluções 
 Atuo principalmente com:
 - 🔐 Certificados Digitais
 - 📊 Sistemas Contábeis e Fiscais
+- 🧑‍💻 Desenvolvimento de extensões de navegadores
 - ⚡ Automação de processos
 - 🖥️ Aplicações Desktop
 - 🌐 Sistemas Full Stack
@@ -80,9 +81,9 @@ Experiência com:
 
 | Projeto | Tecnologias | Descrição |
 |---|---|---|
-| ByToken | Python • PyQt5 • Segurança | Gerenciamento de certificados digitais A1 |
-| FlyPrice | Laravel • Tailwind | Sistema de precificação |
-| FlyTask | Laravel • Bootstrap | Gestão de tarefas |
+| ByToken | Python • Flet • Laravel • Segurança | Gerenciamento de certificados digitais A1 |
+| FlyPrice | Laravel • Bootstrap | Sistema de precificação |
+| FlyTask | Laravel • Tailwind | Gestão de tarefas |
 | Monitoramento A1 | Python • ETW • mitmproxy | Monitoramento de certificados digitais |
 
 ---
