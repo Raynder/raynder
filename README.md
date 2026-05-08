@@ -91,9 +91,9 @@ Experiência com:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raynder&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raynder&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raynder&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raynder&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 </p>
 
 ---
@@ -101,7 +101,10 @@ Experiência com:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raynder/Raynder/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raynder/Raynder/output/github-contribution-grid-snake.svg?sanitize=true">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Raynder/Raynder/output/github-contribution-grid-snake.svg?sanitize=true">
+  </picture>
 </p>
 
 ---
