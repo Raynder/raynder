@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Laravel+Specialist;Desktop+Apps;Automação+e+Infra;QA+e+Testes+Automatizados;Cyber+Security+Enthusiast&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Laravel+Specialist;Desktop+Apps;Automa%C3%A7%C3%A3o+e+Infra;QA+e+Testes+Automatizados;Cyber+Security+Enthusiast&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" />
 </p>
 
 <p align="center">
