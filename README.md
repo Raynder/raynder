@@ -33,17 +33,14 @@ Sou desenvolvedor Full Stack com forte atuação em automação, infraestrutura,
 Tenho experiência no desenvolvimento de aplicações web, desktop e soluções voltadas para produtividade, performance e integração de sistemas.
 
 Atuo principalmente com:
-- 🔐 Certificados Digitais A1
+- 🔐 Certificados Digitais
+- 📊 Sistemas Contábeis e Fiscais
 - ⚡ Automação de processos
-- 🖥️ Aplicações Desktop em Python
+- 🖥️ Aplicações Desktop
 - 🌐 Sistemas Full Stack
 - 🛡️ Segurança e monitoramento
 - ☁️ Infraestrutura e DevOps
 - ✅ Testes automatizados e unitários
-
-Também possuo experiência com desenvolvimento de sistemas corporativos como:
-- 🚀 FlyPrice (precificação)
-- 📋 FlyTask (gestão de tarefas)
 
 Sempre buscando unir:
 performance, qualidade, escalabilidade e experiência do usuário.
@@ -112,7 +109,7 @@ Experiência com:
 
 - 📧 raynder4@gmail.com
 - 📱 +55 62 99489-1113
-- 💼 LinkedIn: linkedin.com/in/rayndercardoso
+- 💼 LinkedIn: linkedin.com/in/raynder-cardoso
 - 📸 Instagram: @rayndercardoso
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f6feb,100:0d1117"/>
