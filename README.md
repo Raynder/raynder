@@ -91,9 +91,9 @@ Experiência com:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raynder&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raynder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=raynder&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=raynder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
@@ -102,8 +102,9 @@ Experiência com:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raynder/raynder/output/github-contribution-grid-snake.svg?sanitize=true">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/raynder/raynder/output/github-contribution-grid-snake.svg?sanitize=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raynder/raynder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raynder/raynder/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/raynder/raynder/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
