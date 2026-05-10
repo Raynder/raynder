@@ -92,8 +92,8 @@ Experiência com:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raynder&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raynder&theme=tokyonight"/>
+  <img height="180em" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raynder&theme=tokyonight"/>
+  <img height="180em" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raynder&theme=tokyonight"/>
 </p>
 
 ---
