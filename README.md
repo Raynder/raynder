@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=AF795C&width=435&lines=Python+Developer;Laravel+Specialist;Desktop+Apps+e+Automa%C3%A7%C3%A3o+e+Infra;QA+e+Testes+Automatizados;Cyber+Security+Enthusiast&center=true&width=600&height=45&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=AF795C&width=435&lines=Python+Developer;Laravel+Specialist;Desktop+Apps;Automa%C3%A7%C3%A3o+e+Infra;QA+e+Testes+Automatizados;Cyber+Security+Enthusiast&center=true&width=600&height=45&vCenter=true&size=22" />
 </p>
 
 <p align="center">
@@ -38,7 +38,6 @@ Atuo principalmente com:
 - 🧑‍💻 Desenvolvimento de extensões de navegadores
 - ⚡ Automação de processos
 - 🖥️ Aplicações Desktop
-- 🌐 Sistemas Full Stack
 - 🛡️ Segurança e monitoramento
 - ☁️ Infraestrutura e DevOps
 - ✅ Testes automatizados e unitários
@@ -63,6 +62,8 @@ performance, qualidade, escalabilidade e experiência do usuário.
 ![Cypress](https://img.shields.io/badge/Cypress-111827?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-8892BF?style=for-the-badge&logo=php&logoColor=white)
+![Laravel Dusk](https://img.shields.io/badge/Laravel%20Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </p>
 
