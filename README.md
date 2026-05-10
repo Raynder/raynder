@@ -1,6 +1,26 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=af795c"/>
 
-<h1 align="center">Raynder Cardoso</h1>
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">
+  Raynder Cardoso
+</h1>
+<h1 align="center" style="font-family: 'Inter', sans-serif;">
+  Raynder Cardoso
+</h1>
+<h1 align="center" style="font-family: 'Montserrat', sans-serif;">
+  Raynder Cardoso
+</h1>
+<h1 align="center" style="font-family: 'Fira Code', sans-serif;">
+  Raynder Cardoso
+</h1>
+<h1 align="center" style="font-family: 'JetBrains Mono', sans-serif;">
+  Raynder Cardoso
+</h1>
+<h1 align="center" style="font-family: 'Bebas Neue', sans-serif;">
+  Raynder Cardoso
+</h1>
+<h1 align="center" style="font-family: 'Orbitron', sans-serif;">
+  Raynder Cardoso
+</h1>
 
 <p align="center">
   Full Stack Developer • Automação • Segurança • Infraestrutura
