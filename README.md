@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:1f6feb"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=af795c"/>
 
 <h1 align="center">Raynder Cardoso</h1>
 
@@ -116,4 +116,4 @@ Experiência com:
 - 💼 LinkedIn: linkedin.com/in/raynder-cardoso
 - 📸 Instagram: @rayndercardoso
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f6feb,100:0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=af795c&section=footer"/>
