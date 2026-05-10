@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=AF795C&width=435&lines=Python+Developer;Laravel+Specialist;Desktop+Apps;Automa%C3%A7%C3%A3o+e+Infra;QA+e+Testes+Automatizados;Cyber+Security+Enthusiast" />
+</p>
+
+<p align="center">
   <a href="mailto:raynder4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
